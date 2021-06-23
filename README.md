@@ -1,16 +1,20 @@
-# loginui
+# E-Learning APP UI DESIGN
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/81028182/123064695-3b18d780-d42e-11eb-8d13-702c368daf48.gif" width="330" height="690">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Some Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](assets/images/S1.png)
+![](assets/images/S2.png)
+![](assets/images/S3.png)
+![](assets/images/S4.png)
+![](assets/images/S5.png)
+![](assets/images/S6.png)
+![](assets/images/S7.png)
+![](assets/images/S8.png)
+![](assets/images/S9.png)
+![](assets/images/S10.png)
+![](assets/images/S11.png)
+![](assets/images/S12.png)
+![](assets/images/S13.png)

@@ -1,6 +1,7 @@
 # E-Learning APP UI DESIGN
 
-<img src="https://user-images.githubusercontent.com/81028182/123064695-3b18d780-d42e-11eb-8d13-702c368daf48.gif" width="330" height="690">
+<img src="https://user-images.githubusercontent.com/81028182/123093726-bb9a0100-d44b-11eb-9018-2f26b052fc4f.gif
+" width="330" height="690">
 
 
 ## Some Screenshots
